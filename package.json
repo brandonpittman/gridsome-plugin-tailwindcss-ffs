@@ -7,9 +7,10 @@
     "explore": "gridsome explore"
   },
   "dependencies": {
-    "gridsome": "^0.6.0"
+    "gridsome": "latest"
   },
   "devDependencies": {
+    "gridsome-plugin-purgecss": "latest",
     "gridsome-plugin-tailwindcss": "latest"
   }
 }
