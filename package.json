@@ -1,5 +1,5 @@
 {
-  "name": "bs",
+  "name": "tailwindcss-ffs",
   "private": true,
   "scripts": {
     "build": "gridsome build",
@@ -10,7 +10,6 @@
     "gridsome": "latest"
   },
   "devDependencies": {
-    "gridsome-plugin-purgecss": "latest",
     "gridsome-plugin-tailwindcss": "latest"
   }
 }

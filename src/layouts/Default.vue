@@ -9,11 +9,3 @@ query {
   }
 }
 </static-query>
-
-<style>
-@tailwind preflight;
-
-@tailwind components;
-
-@tailwind utilities;
-</style>
