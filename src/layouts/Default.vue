@@ -1,5 +1,7 @@
 <template>
-  <h1 class="text-green-500">hello world</h1>
+	<main class="h-screen flex flex-col justify-center items-center">
+		<slot />
+	</main>
 </template>
 
 <static-query>

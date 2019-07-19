@@ -1,15 +1,14 @@
 {
-  "name": "tailwindcss-ffs",
-  "private": true,
-  "scripts": {
-    "build": "gridsome build",
-    "develop": "gridsome develop",
-    "explore": "gridsome explore"
-  },
-  "dependencies": {
-    "gridsome": "latest"
-  },
-  "devDependencies": {
-    "gridsome-plugin-tailwindcss": "latest"
-  }
+	"name": "tailwindcss-ffs",
+	"scripts": {
+		"build": "gridsome build",
+		"develop": "gridsome develop",
+		"explore": "gridsome explore"
+	},
+	"dependencies": {
+		"gridsome": "latest"
+	},
+	"devDependencies": {
+		"gridsome-plugin-tailwindcss": "latest"
+	}
 }
